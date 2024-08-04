@@ -17,7 +17,7 @@ Below, you will find tables for individual sections, with challenge name, diffic
 </br>
 </br>
 Introduction </br>
-[Solutions for this section]() 
+[Solutions for this section](https://github.com/mBohunickaCharles/HackerRank-Python/blob/main/01.%20HackerRank_Introduction.ipynb) 
 | Number | Challenge | Difficulty Level |
 |:------:|-----------|------------------|
 | 1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | Easy |
